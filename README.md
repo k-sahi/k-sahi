@@ -7,6 +7,7 @@ Hello! I'm Sahithi, a data enthusiast currently pursuing a Master of Science in 
 I am a skilled Data Analyst with a strong foundation in data visualization, data mining, and machine learning. My experience spans across various industries, where I have successfully developed data-driven solutions to optimize processes, reduce costs, and enhance data integrity. I enjoy transforming complex datasets into actionable insights and building predictive models to solve real-world problems.
 
 🛠️ Technical Skills
+
 Languages & Tools
 
 ![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,6 +69,7 @@ Engineered robust REST APIs using Java and Spring Boot.
 Championed Agile project management principles using JIRA, increasing sprint velocity by 15%.
 
 🚀 Academic Projects
+
 IMDb Data Analysis | GitHub Link
 
 Analyzed IMDb movie data using Python (Pandas, NumPy, Seaborn, Matplotlib) for data cleaning, advanced EDA, feature selection, and machine learning modeling.
@@ -91,17 +93,15 @@ TCS GenAI Powered Data Analytics by Forage
 📚 Education
 
 Master of Science in Computer and Information Sciences
-
 University of Massachusetts, Dartmouth, MA, USA
 
 Bachelor of Engineering in Computer Science and Engineering
-
 Malla Reddy University, Hyderabad, India
 
 📫 Contact Me
 
 Email: keshireddysahithi@outlook.com
 
-Portfolio: www.sahithikeshireddy.com
+Portfolio: https://www.sahithikeshireddy.com
 
-LinkedIn: [linkedin.com/in/sahithi-keshireddy](https://www.linkedin.com/in/sahithi-keshireddy/)
+LinkedIn: linkedin.com/in/sahithi-keshireddy
