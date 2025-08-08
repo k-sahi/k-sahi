@@ -104,4 +104,4 @@ Email: keshireddysahithi@outlook.com
 
 Portfolio: www.sahithikeshireddy.com
 
-LinkedIn: linkedin.com/in/sahithi-keshireddy
+LinkedIn: [linkedin.com/in/sahithi-keshireddy](https://www.linkedin.com/in/sahithi-keshireddy/)
