@@ -11,7 +11,7 @@
 
 # 💫 About Me
 
-**Sahithi**  
+**Sahithi Reddy**  
 📍 **Boston, MA**  
 
 🎓 **Computer and Information Science**  
