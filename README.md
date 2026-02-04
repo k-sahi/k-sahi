@@ -14,7 +14,7 @@
 Hi, I'm **Sahithi Keshireddy**! 👋  
 
 📊 **Data Engineer | Data Analyst**  
-🎓 **Master’s in Information Systems** — *Northeastern University*  
+🎓 **Master’s in Information Systems** — *University Of Massachusetts Dartmouth*  
 
 I’m passionate about transforming raw data into **reliable pipelines, meaningful insights, and business-ready dashboards**.  
 I work primarily with **Python, SQL, cloud platforms, and analytics tools** to support data-driven decision-making.
