@@ -4,17 +4,17 @@
    ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sahithi+Keshireddy+%F0%9F%91%8B;Data+Engineer+%7C+Data+Analyst;Building+Scalable+Data+Pipelines+%26+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sahithi++%F0%9F%91%8B;Data+Engineer+%7C+Data+Analyst;Building+Scalable+Data+Pipelines+%26+Insights" alt="Typing SVG" />
 </p>
 
 ---
 
 # 💫 About Me:
 
-Hi, I'm **Sahithi Keshireddy**! 👋  
+Hi, I'm **Sahithi**! 👋  
 
 📊 **Data Engineer | Data Analyst**  
-🎓 **Master’s in Information Systems** — *University Of Massachusetts Dartmouth*  
+🎓 **Master’s in Computer and Information Science** — *University Of Massachusetts Dartmouth*  
 
 I’m passionate about transforming raw data into **reliable pipelines, meaningful insights, and business-ready dashboards**.  
 I work primarily with **Python, SQL, cloud platforms, and analytics tools** to support data-driven decision-making.
