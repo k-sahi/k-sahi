@@ -3,9 +3,7 @@
    Sahithi
    ======================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sahithi+%F0%9F%91%8B;Data+Engineer+%7C+Data+Analyst;Currently+Learning+AI+%26+Machine+Learning" alt="Typing SVG" />
-</p>
+
 
 ---
 
@@ -17,11 +15,7 @@
 🎓 **Computer and Information Science**  
 🏫 **University of Massachusetts Dartmouth**
 
-I enjoy working with **data pipelines, analytics, and cloud platforms**, and I’m currently **learning AI & Machine Learning** to strengthen my analytical and modeling skills.
 
-I like building **clean, reliable data workflows** and turning data into insights that support real-world decisions.
-
----
 
 ## 💻 Tech Stack
 
