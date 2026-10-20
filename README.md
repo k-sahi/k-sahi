@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahithi Keshireddy</h1>
+<h1 align="center">Hi 👋, I'm Sahithi Reddy</h1>
 <h3 align="center">An AI Full Stack Engineer based in Boston, MA</h3>
 <p align="center">
 I build AI-powered products end to end, from LLM and RAG pipelines on the backend to clean React interfaces on the front. Over 4+ years across education tech, automotive compliance and financial analytics, I've loved taking AI systems from a rough prototype all the way to production. 🤖🛠️
