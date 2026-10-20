@@ -30,13 +30,6 @@ I build AI-powered products end to end, from LLM and RAG pipelines on the backen
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" /></a>
-  <a href="mailto:sahithikeshireddy2k@gmail.com"><img align="center" src="https://img.icons8.com/color/96/gmail-new.png" alt="Email" width="40" /></a>
-</p>
-
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
