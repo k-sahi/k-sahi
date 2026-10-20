@@ -27,7 +27,6 @@ I build AI-powered products end to end, from LLM and RAG pipelines on the backen
 - 🌱 I'm currently diving deeper into **Agentic AI, LangGraph and Graph RAG**
 - 💬 Ask me about **RAG, LLM apps, FastAPI, React and data pipelines**
 - 🎓 M.S. in Computer and Information Sciences, **UMass Dartmouth**
-- 📫 How to reach me **sahithikeshireddy2k@gmail.com**
 
 <br>
 
