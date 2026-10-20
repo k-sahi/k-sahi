@@ -100,7 +100,7 @@ I build AI-powered products end to end, from LLM and RAG pipelines on the backen
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=midnight-purple&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k-sahi&theme=midnight-purple&show_icons=true&hide_border=true" alt="GitHub stats" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true" alt="GitHub streak" />
