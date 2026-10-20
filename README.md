@@ -79,17 +79,4 @@ I build AI-powered products end to end, from LLM and RAG pipelines on the backen
 
 <br>
 
-<h3 align="left">Where I've Worked:</h3>
-
-| Company | Role | When |
-|---|---|---|
-| Chicago Education Advocacy Cooperative | AI Software Engineer | Aug 2025 – Present |
-| Volvo Group Trucks Technology | Intern, Certification & Compliance | May 2024 – Aug 2024 |
-| FactSet Research Systems | Full Stack Developer | Jun 2022 – Aug 2023 |
-| Cognizant | Full Stack Developer | Jan 2022 – May 2022 |
-| Stumagz | Software Developer Intern | Jun 2021 – May 2022 |
-
-
-<br>
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
