@@ -4,9 +4,6 @@
 I build AI-powered products end to end, from LLM and RAG pipelines on the backend to clean React interfaces on the front. Over 4+ years across education tech, automotive compliance and financial analytics, I've loved taking AI systems from a rough prototype all the way to production. 🤖🛠️
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" />
