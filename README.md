@@ -16,7 +16,7 @@ I build AI-powered products end to end, from LLM and RAG pipelines on the backen
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Sahithi coding" width="400" src="girl-coding.svg">
 <br><br>
 
 - 🔭 I'm currently an **AI Software Engineer** at Chicago Education Advocacy Cooperative, building RAG and LLM-powered tools
