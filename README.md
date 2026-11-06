@@ -9,11 +9,13 @@ I build AI-powered products end to end, from LLM and RAG pipelines on the backen
 <img align="right" alt="Sahithi coding" width="400" src="girl-coding.svg">
 <br><br>
 
-- 🔭 I'm currently an **AI Software Engineer** at Chicago Education Advocacy Cooperative, building RAG and LLM-powered tools
-- 🚀 I'm **open to new opportunities** and happy to relocate
-- 🌱 I'm currently diving deeper into **Agentic AI, LangGraph and Graph RAG**
-- 💬 Ask me about **RAG, LLM apps, FastAPI, React and data pipelines**
-- 🎓 M.S. in Computer and Information Sciences, **UMass Dartmouth**
+-- 🎬 I'm currently working on [**LiveMemoji Audio Lip-Sync**](https://github.com/k-sahi/LiveMemoji-audio-lipsync), which animates an avatar's lips in sync with speech audio
+- 🧑‍🎤 Exploring **AI digital humans**: talking avatars, audio-driven facial animation and realistic lip movement
+- 🗣️ Interested in **speech + vision AI**: text-to-speech, voice cloning, face animation and real-time avatar rendering
+- 🎥 Building towards **interactive AI avatars** that can listen, think with an LLM, and talk back with natural expressions
+- 👩‍💻 **4+ years** building full-stack apps across education tech, automotive compliance and financial analytics
+- 🤖 I love taking **AI ideas from prototype to production**, from the model and APIs to the UI
+- 🤝 I'm open to **collaborating on AI, GenAI and full-stack projects**
 
 <br>
 
