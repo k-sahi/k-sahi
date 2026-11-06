@@ -5,16 +5,6 @@ I build AI-powered products end to end, from LLM and RAG pipelines on the backen
 </p>
 
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" />
-</div>
 
 <img align="right" alt="Sahithi coding" width="400" src="girl-coding.svg">
 <br><br>
